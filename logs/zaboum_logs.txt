@@ -1,0 +1,113 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921325 is handled. Duration 453 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921326 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921327 is handled. Duration 171 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921328 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921329 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921330 is handled. Duration 139 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921331 is handled. Duration 155 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921332 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921333 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921334 is handled. Duration 1358 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921335 is handled. Duration 171 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921336 is handled. Duration 139 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921337 is handled. Duration 141 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921338 is handled. Duration 140 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921339 is handled. Duration 172 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921340 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921341 is handled. Duration 141 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921342 is handled. Duration 469 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921343 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921344 is handled. Duration 157 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921345 is handled. Duration 155 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921346 is handled. Duration 157 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921347 is handled. Duration 155 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921348 is handled. Duration 171 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921349 is handled. Duration 358 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921350 is handled. Duration 156 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921351 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921352 is handled. Duration 109 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921353 is handled. Duration 389 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921354 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921355 is handled. Duration 141 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921356 is handled. Duration 140 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921357 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921358 is handled. Duration 202 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921359 is handled. Duration 155 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921360 is handled. Duration 203 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921361 is not handled. Duration 0 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921362 is handled. Duration 187 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921363 is handled. Duration 77 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921364 is not handled. Duration 0 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921365 is handled. Duration 266 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921366 is handled. Duration 172 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921367 is handled. Duration 141 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921368 is handled. Duration 93 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921369 is handled. Duration 187 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921370 is handled. Duration 94 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921371 is handled. Duration 108 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921372 is handled. Duration 217 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921373 is handled. Duration 109 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921374 is handled. Duration 141 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921375 is handled. Duration 187 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921376 is handled. Duration 172 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921377 is handled. Duration 171 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921378 is handled. Duration 187 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921379 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921380 is handled. Duration 78 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921381 is handled. Duration 77 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921382 is handled. Duration 93 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921383 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921384 is handled. Duration 108 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921385 is handled. Duration 203 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921386 is handled. Duration 155 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921387 is handled. Duration 641 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921388 is handled. Duration 922 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921389 is handled. Duration 765 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921390 is handled. Duration 93 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921391 is handled. Duration 280 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921392 is handled. Duration 453 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921393 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921394 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921395 is handled. Duration 78 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921396 is handled. Duration 312 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921397 is handled. Duration 78 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921398 is handled. Duration 78 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921399 is handled. Duration 78 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921400 is handled. Duration 109 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921401 is handled. Duration 157 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921402 is handled. Duration 344 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921403 is handled. Duration 187 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921404 is handled. Duration 250 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921405 is handled. Duration 483 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921406 is handled. Duration 156 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921407 is handled. Duration 172 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921408 is handled. Duration 281 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921409 is handled. Duration 467 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921410 is handled. Duration 108 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921411 is handled. Duration 203 ms by bot id=7385319219
