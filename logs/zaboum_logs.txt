@@ -111,3 +111,9 @@ INFO:aiogram.event:Update id=663921408 is handled. Duration 281 ms by bot id=738
 INFO:aiogram.event:Update id=663921409 is handled. Duration 467 ms by bot id=7385319219
 INFO:aiogram.event:Update id=663921410 is handled. Duration 108 ms by bot id=7385319219
 INFO:aiogram.event:Update id=663921411 is handled. Duration 203 ms by bot id=7385319219
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @zabotum_bot id=7385319219 - 'Заботум'
+INFO:aiogram.event:Update id=663921412 is handled. Duration 250 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921413 is handled. Duration 171 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921414 is handled. Duration 125 ms by bot id=7385319219
+INFO:aiogram.event:Update id=663921415 is handled. Duration 219 ms by bot id=7385319219
